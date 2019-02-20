@@ -1,0 +1,7 @@
+destination-bucket: #name of destination bucket, e.g. my-desitnation-bucket
+
+image:
+  max-width: 1920
+  max-height: 1080
+  max-size: 500_000
+  desired-ratio: 1.778
